@@ -35,7 +35,7 @@
 
 ## Project Description:
 I created a console calculator for performing basic operations on different matrices. It will be possible to interact with the program by entering commands by type 
-ADD, SUBTRACT, MULTIPLY, TRANSPOSE, DETERMINANT 
+SUM, SUB, PRD, TRAN, DET 
 and others. When starting the calculator, the user will be greeted with a welcome message and a short guide to using the program. While working with the calculator, in case of incorrect input or other aspects the program will notify the user of the exceptions that have occurred. It will also be possible to terminate the program using the command.
 
 ## General basic view of the program:
