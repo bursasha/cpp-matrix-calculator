@@ -1,4 +1,4 @@
-# CMatrixCalculator
+# CMatrixCalculator. Voluminous semestral university (ČVUT FIT) project of creating a console application using polymorphism, OOP, effective memory usage, a variety of algorithms for working with dense and sparse matrices 📚
 
 ## What is it capable of?
 **Support for working with many matrices (as many as there are letters in English alphabet).**
