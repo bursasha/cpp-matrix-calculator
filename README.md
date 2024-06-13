@@ -1,4 +1,4 @@
-# CMatrixCalculator 🧮
+# CMatrixCalculator 🧮 
 
 ## Project Structure: 📁
 - `src/`: Contains the source code files for the matrix calculator.
